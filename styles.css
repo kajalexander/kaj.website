@@ -40,3 +40,13 @@ body {
     color: #000000;
   }
   
+    .fa-linkedin {
+      font-size: 2rem;
+      color: #50027e;
+    }
+
+    .fa-instagram {
+      font-size: 2rem;
+      color: #50027e;
+      padding-right: 0.75rem;
+    }
